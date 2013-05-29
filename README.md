@@ -5,7 +5,13 @@ It takes a wordpress XML export file and converts it into individual files in Ma
 The output should fit straight into the Benjen entries folder.
 
 Sources:
+
 HTMLTOTEXT: https://github.com/aaronsw/html2text
+
 CONVERTWORDPRESS: http://code.activestate.com/recipes/551792-convert-wordpress-export-file-to-multiple-html-fil/
 
 BENJEN: https://github.com/daeken/Benjen
+
+
+
+Usage: `WordpressConversion.py (filename)`
