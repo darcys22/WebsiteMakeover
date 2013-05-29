@@ -15,3 +15,7 @@ BENJEN: https://github.com/daeken/Benjen
 
 
 Usage: `WordpressConversion.py (filename)`
+
+
+----
+NOTE: I am not the author of these I just edited them a bit to suit my own purposes
